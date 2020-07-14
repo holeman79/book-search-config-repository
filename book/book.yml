@@ -5,7 +5,7 @@ spring:
     name: book
 
 server:
-  port: 8082
+  port: 8083
 
 hystrix:
   command:
